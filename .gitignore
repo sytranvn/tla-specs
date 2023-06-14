@@ -1,0 +1,11 @@
+# TLA+ Toolbox files, this will keep <spec_name>__<model_name>.launch
+/*.toolbox/.settings
+/*.toolbox/.project
+/*.toolbox/*/*
+/*.toolbox/*_SnapShot_*.launch
+# TLA+ Toolbox PDF production artifacts
+/*.toolbox/*.aux
+/*.toolbox/*.log
+/*.toolbox/*.tex
+/*.toolbox/*.pdf
+/*.pdf
